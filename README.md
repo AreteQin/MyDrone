@@ -5,4 +5,4 @@ Building a drone from scratch
 ![](./Figures/drone.jpg)
 
 ## Demonstration
-![](./Figures/drone.gif)
+![](./Figures/drone_flight.gif)

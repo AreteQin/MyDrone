@@ -4,6 +4,16 @@ Building a drone from scratch
 ## Hardware
 ![](./Figures/drone.jpg)
 
+### UART Connections
+Red - VCC
+
+Yellow - TX
+
+White - RX
+
+Black - GND
+
+
 ## Demonstration
 ![](./Figures/drone_flight.gif)
 
